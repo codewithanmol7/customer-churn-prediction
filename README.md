@@ -87,3 +87,11 @@ Why XGBoost:
 ---
 
 ## Project Structure
+customer-churn-prediction/
+│
+├── churn_app.py
+├── customer.ipynb
+├── requirements.txt
+├── Telco-Customer-Churn.csv
+├── .gitignore
+└── README.md
