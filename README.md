@@ -3,10 +3,6 @@
 End-to-end machine learning project to predict telecom customer churn using behavioral and service usage data.  
 The project includes data preprocessing, imbalance handling, model training with XGBoost, and a Streamlit web application for real-time predictions.
 
----
-
-## Live Demo (Optional – add after deployment)
-Streamlit App: [Add your deployed app link here]
 
 ---
 
@@ -75,7 +71,7 @@ Why XGBoost:
 
 ---
 
-## Model Performance (example — update with your results)
+## Model Performance 
 
 | Metric | Score |
 |------|------|
@@ -95,3 +91,27 @@ customer-churn-prediction/
 ├── Telco-Customer-Churn.csv
 ├── .gitignore
 └── README.md
+
+
+### Folder Description
+
+| Folder | Purpose |
+|---|---|
+| data | Contains raw dataset |
+| notebooks | Model training, EDA, experimentation |
+| models | Saved trained model and encoders |
+| app | Streamlit deployment code |
+| screenshots | Images used in README |
+| root files | Config, dependencies, documentation |
+
+---
+
+## Recommended Professional Workflow
+
+1. Load data from `/data`
+2. Train model in `/notebooks`
+3. Save model to `/models`
+4. Use model in `/app` Streamlit interface
+5. Document everything in README
+
+---
