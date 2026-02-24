@@ -13,6 +13,3 @@ __pycache__/
 
 # Mac system files
 .DS_Store
-
-# ML model files
-*.pkl
