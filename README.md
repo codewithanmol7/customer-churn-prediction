@@ -224,9 +224,9 @@ Top features influencing churn:
 
 ```
 Accuracy  : 0.77
-Precision : 0.75
-Recall    : 0.72
-F1 Score  : 0.73
+Precision : 0.55
+Recall    : 0.62
+F1 Score  : 0.58
 ```
 
 ---
